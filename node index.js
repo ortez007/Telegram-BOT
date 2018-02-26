@@ -37,6 +37,17 @@ introduceYourself(){
 console.log(`Hello, my name is ${this.getName()}. You can talk to me through my username: @${this.username}`);
 }
 }
+maxnum(){
+if (response="/maxnum"){
+console.log('Ingrese dos numeros');
+  var num1 =response.num1;
+  var num2 =response.num2;
+  var restl=mathmax(num1,num2);
+console.log('El numero mayor es ',$restl);
+  if(error) return
+  if(!response) return
+}
+}
 }
 
 TOKEN = '517895758:AAHo_YwJVayge-P6GiYYw2ybe8xtwRCGbZQ'
